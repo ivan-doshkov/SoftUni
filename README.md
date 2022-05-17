@@ -1,2 +1,2 @@
-# SoftUni
-Test github
+# SoftUni Fundamentals
+SoftUni_Fundamentals--Exercises
